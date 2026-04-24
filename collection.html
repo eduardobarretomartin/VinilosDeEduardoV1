@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Colección - Vinilos</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="collection-header">
+        <nav class="nav-bar">
+            <a href="index.html" class="nav-logo">← Inicio</a>
+            <a href="https://www.discogs.com/es/user/eduardobm99/collection" target="_blank" class="nav-discogs">Discogs</a>
+        </nav>
+        <h1>Mi Colección</h1>
+        <div class="collection-stats">
+            <span id="collection-count">0 discos</span>
+        </div>
+    </header>
+
+    <section class="filters-section">
+        <div class="filters-container">
+            <div class="search-box">
+                <input type="text" id="busqueda-coleccion" placeholder="Buscar por título o artista..." autocomplete="off">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+            </div>
+            <div class="filter-group">
+                <select id="filtro-genero">
+                    <option value="">Todos los géneros</option>
+                </select>
+                <select id="filtro-ano">
+                    <option value="">Todos los años</option>
+                </select>
+                <select id="filtro-precio">
+                    <option value="">Todos los precios</option>
+                    <option value="0-5">0 - 4.99€</option>
+                    <option value="5-10">5 - 9.99€</option>
+                    <option value="10-15">10 - 14.99€</option>
+                    <option value="15-20">15 - 19.99€</option>
+                    <option value="20-25">20 - 24.99€</option>
+                    <option value="25-30">25 - 29.99€</option>
+                    <option value="30-40">30 - 39.99€</option>
+                    <option value="40-50">40 - 49.99€</option>
+                    <option value="50+">50€+</option>
+                </select>
+            </div>
+        </div>
+    </section>
+
+    <main class="collection-grid" id="coleccion-grid">
+        <!-- Vinyl cards will be loaded here -->
+    </main>
+
+    <footer>
+        <p>Colección personal de vinilos</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initCollection();
+        });
+    </script>
+</body>
+</html>

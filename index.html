@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los discos de Eduardo Barreto Martín</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="hero">
+        <div class="hero-content">
+            <div class="vinyl-icon" id="vinyl-icon" onclick="changeVinylColor()">
+                <div class="vinyl-record" id="vinyl-record">
+                    <div class="vinyl-center"></div>
+                </div>
+            </div>
+            <h1>Los discos de Eduardo Barreto Martín</h1>
+            <p class="subtitle">Since octubre de 2023</p>
+        </div>
+    </header>
+
+    <section class="stats-section">
+        <div class="stats-container">
+            <div class="stat-card">
+                <span class="stat-number" id="total-discos">0</span>
+                <span class="stat-label">Discos</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="total-valor">0€</span>
+                <span class="stat-label">Valor Actual</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="total-pagado">0€</span>
+                <span class="stat-label">Total Invertido</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="total-diferencia">0€</span>
+                <span class="stat-label">Diferencia</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="discogs-section">
+        <a href="https://www.discogs.com/es/user/eduardobm99/collection" target="_blank" class="discogs-link">
+            <svg class="discogs-icon" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+            </svg>
+            Ver en Discogs
+        </a>
+    </section>
+
+    <section class="search-section">
+        <div class="search-container">
+            <input type="text" id="busqueda" placeholder="Buscar por título..." autocomplete="off">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"></circle>
+                <path d="m21 21-4.35-4.35"></path>
+            </svg>
+        </div>
+        <div id="resultados-busqueda" class="search-results"></div>
+    </section>
+
+    <section class="collection-preview">
+        <h2>Vista Previa</h2>
+        <div id="preview-grid" class="preview-grid"></div>
+        <div class="center-button">
+            <a href="collection.html" class="btn-primary">Ver Colección Completa</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>Colección personal de vinilos</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initHome();
+        });
+    </script>
+</body>
+</html>

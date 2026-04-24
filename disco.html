@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle del Disco</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="disco-header">
+        <nav class="nav-bar">
+            <a href="index.html" class="nav-logo">← Inicio</a>
+            <a href="collection.html" class="nav-logo">← Colección</a>
+        </nav>
+    </header>
+
+    <main class="disco-detail">
+        <div class="disco-container">
+            <div class="disco-portada">
+                <img id="disco-portada-img" src="" alt="Portada del disco">
+            </div>
+            <div class="disco-info">
+                <h1 id="disco-titulo">Título</h1>
+                <h2 id="disco-artista">Artista</h2>
+                
+                <div class="disco-meta">
+                    <div class="meta-item">
+                        <span class="meta-label">Año</span>
+                        <span id="disco-ano" class="meta-value">-</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Género</span>
+                        <span id="disco-genero" class="meta-value">-</span>
+                    </div>
+                    <div class="meta-item">
+                        <span class="meta-label">Tipo de Edición</span>
+                        <span id="disco-tipo" class="meta-value">-</span>
+                    </div>
+                </div>
+
+                <div class="disco-precios">
+                    <div class="precio-card compra">
+                        <span class="precio-label">Precio de Compra</span>
+                        <span id="disco-precio-compra" class="precio-value">-</span>
+                    </div>
+                    <div class="precio-card actual">
+                        <span class="precio-label">Valor Actual</span>
+                        <span id="disco-precio-actual" class="precio-value">-</span>
+                    </div>
+                    <div class="precio-card diferencia">
+                        <span class="precio-label">Diferencia</span>
+                        <span id="disco-diferencia" class="precio-value">-</span>
+                    </div>
+                </div>
+
+                <div class="disco-datos">
+                    <div class="dato-item">
+                        <span class="dato-label">Fecha de Compra</span>
+                        <span id="disco-fecha" class="dato-value">-</span>
+                    </div>
+                    <div class="dato-item">
+                        <span class="dato-label">Lugar de Compra</span>
+                        <span id="disco-lugar" class="dato-value">-</span>
+                    </div>
+                </div>
+
+                <div class="disco-actions">
+                    <a id="disco-discogs" href="#" target="_blank" class="btn-discogs">
+                        <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20">
+                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+                        </svg>
+                        Ver en Discogs
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <section class="tracklist-section" id="tracklist-section" style="display: none;">
+            <h3>Tracklist</h3>
+            <ol class="tracklist" id="tracklist">
+            </ol>
+        </section>
+    </main>
+
+    <footer>
+        <p>Colección personal de vinilos</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            initDisco();
+        });
+    </script>
+</body>
+</html>
