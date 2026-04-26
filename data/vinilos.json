@@ -1,7 +1,7 @@
 {
-  "total_discos": 116,
-  "total_pagado": 2347.5499999999997,
-  "total_diferencia": -968.5600000000002,
+  "total_discos": 120,
+  "total_pagado": 2417.5499999999997,
+  "total_diferencia": -971.5600000000002,
   "vinyls": [
     {
       "numero": 1,
@@ -16,7 +16,7 @@
       "precio_compra": 30,
       "precio_actual": 23.9,
       "diferencia": 6.100000000000001,
-      "total": -968.5600000000002,
+      "total": -971.5600000000002,
       "nota": "Diferencia",
       "observaciones": null
     },
@@ -50,7 +50,7 @@
       "precio_compra": 14.5,
       "precio_actual": 14.99,
       "diferencia": -0.4900000000000002,
-      "total": 2347.5499999999997,
+      "total": 2417.5499999999997,
       "nota": "Pagado",
       "observaciones": null
     },
@@ -1974,6 +1974,74 @@
       "total": null,
       "nota": null,
       "observaciones": "De lo de tía Mila en Semana Santa"
+    },
+    {
+      "numero": 117,
+      "portada": null,
+      "titulo": "Palmera",
+      "artista": "Palmrea",
+      "ano": 1982,
+      "genero": "Rock Español",
+      "tipo_edicion": "1º Edición España",
+      "fecha": "2026-04-26",
+      "lugar_compra": "Feria del Disco Salamanca",
+      "precio_compra": 10,
+      "precio_actual": 10,
+      "diferencia": 0,
+      "total": null,
+      "nota": null,
+      "observaciones": null
+    },
+    {
+      "numero": 118,
+      "portada": null,
+      "titulo": "Songs of Love and Hate",
+      "artista": "Leonard Cohen",
+      "ano": 1971,
+      "genero": "Cantautor/Folk",
+      "tipo_edicion": "Edicion España 1983",
+      "fecha": "2026-04-26",
+      "lugar_compra": "Feria del Disco Salamanca",
+      "precio_compra": 10,
+      "precio_actual": 10,
+      "diferencia": 0,
+      "total": null,
+      "nota": null,
+      "observaciones": null
+    },
+    {
+      "numero": 119,
+      "portada": null,
+      "titulo": "Tea for the Tillerman",
+      "artista": "Cat Stevens",
+      "ano": 1970,
+      "genero": "Cantautor/Folk",
+      "tipo_edicion": "2 Ed Alemania 1971",
+      "fecha": "2026-04-26",
+      "lugar_compra": "Feria del Disco Salamanca",
+      "precio_compra": 20,
+      "precio_actual": 18,
+      "diferencia": 2,
+      "total": null,
+      "nota": null,
+      "observaciones": null
+    },
+    {
+      "numero": 120,
+      "portada": null,
+      "titulo": "The Last Waltz",
+      "artista": "The Band",
+      "ano": 1978,
+      "genero": "Rock Internacional",
+      "tipo_edicion": null,
+      "fecha": "2026-04-26",
+      "lugar_compra": "Feria del Disco Salamanca",
+      "precio_compra": 30,
+      "precio_actual": 35,
+      "diferencia": -5,
+      "total": null,
+      "nota": null,
+      "observaciones": null
     }
   ]
 }

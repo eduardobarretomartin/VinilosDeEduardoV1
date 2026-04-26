@@ -128,17 +128,21 @@ if (score > bestScore) {
 
 // Manual mapping for specific vinyls with known image names
 const manualImageMap = {
-    4: 'simonygarfubkle.jpg',       // Simon & Garfunkel Collection
-    33: 'lomejordecream.jpg',       // Lo Mejor de Cream
-    47: 'birt of the coool.jpg',    // Birth of the Cool
-    62: 'ledZeppellin II.jpg',      // Led Zeppelin II
-    64: 'queenisdead.jpg',          // Queen is Dead
-    65: 'LedZepplein IV.jpg',       // Led Zeppelin IV
-    88: 'freewhelin bob dyla.jpg',  // Freewheelin' Bob Dylan
-    92: 'songfoLeonardCohen.jpg',   // Songs of Leonard Cohen
+    4: 'simonygarfubkle.jpg',              // Simon & Garfunkel Collection
+    33: 'lomejordecream.jpg',              // Lo Mejor de Cream
+    47: 'birt of the coool.jpg',           // Birth of the Cool
+    62: 'ledZeppellin II.jpg',             // Led Zeppelin II
+    64: 'queenisdead.jpg',                // Queen is Dead
+    65: 'LedZepplein IV.jpg',             // Led Zeppelin IV
+    88: 'freewhelin bob dyla.jpg',        // Freewheelin' Bob Dylan
+    92: 'songfoLeonardCohen.jpg',         // Songs of Leonard Cohen
     95: 'construcao-limitededition-burque.jpg', // Construçao
-    101: 'chicho sanchez ferlosio.jpg', // Resistencia Española
-    115: 'TheBeatles68LP.jpg',      // White Album
+    101: 'chicho sanchez ferlosio.jpg',   // Resistencia Española
+    115: 'TheBeatles68LP.jpg',            // White Album
+    117: 'Palmera_Palmera.jpeg',           // Palmera
+    118: 'Songs_of_love_and_hate_Leonard_Cohen.jpg', // Songs of Love and Hate
+    119: 'TeaForTheTellerman_CatStevens.jpg', // Tea for the Tillerman
+    120: 'TheLasatWaltz_TheBand.jpg',      // The Last Waltz
 };
 
 function getManualImage(numero) {
@@ -226,7 +230,7 @@ async function initHome() {
     
     // Preview grid (first 8 vinyls)
     const previewGrid = document.getElementById('preview-grid');
-    for (const vinyl of data.vinyls.slice(0, 8)) {
+    for (const vinyl of data.vinyls.slice(-10)) {
         previewGrid.appendChild(await createVinylCard(vinyl));
     }
     
