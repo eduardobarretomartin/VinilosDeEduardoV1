@@ -298,8 +298,8 @@ h1, h2, h3 {
 
 .preview-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 25px;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
     margin-bottom: 30px;
 }
 
