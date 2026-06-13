@@ -143,6 +143,13 @@ const manualImageMap = {
     118: 'Songs_of_love_and_hate_Leonard_Cohen.jpg', // Songs of Love and Hate
     119: 'TeaForTheTellerman_CatStevens.jpg', // Tea for the Tillerman
     120: 'TheLasatWaltz_TheBand.jpg',      // The Last Waltz
+    121: 'Goodbye_Cream.jpg',             // Goodbye - Cream
+    122: 'RunningOnEmpty_JamesTaylor.jpg', // Running on Empty - Jackson Browne
+    123: 'MudSlideSlim_JamesTaylor.jpg',  // Mud Slide Slim - James Taylor
+    124: 'Hot_august_night_Neil_Diamond.jpg', // Hot August Night - Neil Diamond
+    125: 'TheLivingRoad_Lhasa.jpg',       // The Living Road - Lhasa de Sela
+    126: 'HitTheRoad_RayCharles.jpg',     // Hit The Road - Ray Charles
+    127: 'TheBand_TheBand.jpg',           // The Band - The Band
 };
 
 function getManualImage(numero) {
