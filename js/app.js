@@ -150,6 +150,8 @@ const manualImageMap = {
     125: 'TheLivingRoad_Lhasa.jpg',       // The Living Road - Lhasa de Sela
     126: 'HitTheRoad_RayCharles.jpg',     // Hit The Road - Ray Charles
     127: 'TheBand_TheBand.jpg',           // The Band - The Band
+    128: 'SongsInTheKeyofLife_StevieWonder.jpg', // Songs in the Key of Life - Stevie Wonder
+    129: 'StickyFingers_RollingStones.jpg', // Sticky Fingers - The Rolling Stones
 };
 
 function getManualImage(numero) {

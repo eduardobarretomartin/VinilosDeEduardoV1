@@ -1,7 +1,7 @@
 {
-  "total_discos": 127,
-  "total_pagado": 2534.5299999999993,
-  "total_diferencia": -998.1760000000002,
+  "total_discos": 129,
+  "total_pagado": 2600.6399999999994,
+  "total_diferencia": -1009.8460000000001,
   "vinyls": [
     {
       "numero": 1,
@@ -16,7 +16,7 @@
       "precio_compra": 30,
       "precio_actual": 23.9,
       "diferencia": 6.100000000000001,
-      "total": -998.1760000000002,
+      "total": -1009.8460000000001,
       "nota": "Diferencia",
       "observaciones": null
     },
@@ -50,7 +50,7 @@
       "precio_compra": 14.5,
       "precio_actual": 14.99,
       "diferencia": -0.4900000000000002,
-      "total": 2534.5299999999993,
+      "total": 2600.6399999999994,
       "nota": "Pagado",
       "observaciones": null
     },
@@ -2158,6 +2158,40 @@
       "precio_compra": 26.99,
       "precio_actual": 33.99,
       "diferencia": -7.0000000000000036,
+      "total": null,
+      "nota": null,
+      "observaciones": null
+    },
+    {
+      "numero": 128,
+      "portada": null,
+      "titulo": "Songs in the Key of Life",
+      "artista": "Stevie Wonder",
+      "ano": 1976,
+      "genero": "Soul & Funk",
+      "tipo_edicion": "Reedicion 2 LP +1 EP",
+      "fecha": "2026-06-16",
+      "lugar_compra": "Amazon Esp",
+      "precio_compra": 38.92,
+      "precio_actual": 45.79,
+      "diferencia": -6.869999999999997,
+      "total": null,
+      "nota": null,
+      "observaciones": null
+    },
+    {
+      "numero": 129,
+      "portada": null,
+      "titulo": "Sticky Fingers",
+      "artista": "The Rolling Stones",
+      "ano": null,
+      "genero": "Rock Internacional",
+      "tipo_edicion": "Reedición 2018",
+      "fecha": "2026-06-19",
+      "lugar_compra": "Amazon Esp",
+      "precio_compra": 27.19,
+      "precio_actual": 31.99,
+      "diferencia": -4.799999999999997,
       "total": null,
       "nota": null,
       "observaciones": null
