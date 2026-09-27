@@ -5,7 +5,7 @@
   "vinyls": [
     {
       "numero": 1,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Let It Bleed",
       "artista": "The Rolling Stones",
       "ano": 1969,
@@ -18,11 +18,11 @@
       "diferencia": 6.100000000000001,
       "total": -1097.0460000000003,
       "nota": "Diferencia",
-      "observaciones": NaN
+      "observaciones": null
     },
     {
       "numero": 2,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Darkside of the Moon ",
       "artista": "Pink Floyd",
       "ano": 1972,
@@ -33,13 +33,13 @@
       "precio_compra": 21.5,
       "precio_actual": "47,99",
       "diferencia": -26.490000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 3,
-      "portada": NaN,
+      "portada": null,
       "titulo": "At Newport",
       "artista": "Muddy Waters",
       "ano": 1960,
@@ -52,11 +52,11 @@
       "diferencia": -0.4900000000000002,
       "total": 2855.399999999999,
       "nota": "Pagado",
-      "observaciones": NaN
+      "observaciones": null
     },
     {
       "numero": 4,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Simon and Garfunkel Collection Sus obras maestras",
       "artista": "Simon and Garfunkel",
       "ano": 1981,
@@ -67,13 +67,13 @@
       "precio_compra": 15.0,
       "precio_actual": 11,
       "diferencia": 4.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 5,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Are you Experienced?",
       "artista": "Jimi Hendrix Experience",
       "ano": 1967,
@@ -84,13 +84,13 @@
       "precio_compra": 26.9,
       "precio_actual": "31,99",
       "diferencia": -5.09,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 6,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Ziggy Stardust and The Spiders From Mars ",
       "artista": "David Bowie",
       "ano": 1972,
@@ -101,13 +101,13 @@
       "precio_compra": 22.95,
       "precio_actual": "24,74",
       "diferencia": -1.7899999999999991,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 7,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Communique",
       "artista": "Dire Straits",
       "ano": 1979,
@@ -118,13 +118,13 @@
       "precio_compra": 20.0,
       "precio_actual": 25,
       "diferencia": -5.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 8,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Texas Flood",
       "artista": "Stevie Ray Vaughan",
       "ano": 1983,
@@ -135,13 +135,13 @@
       "precio_compra": 25.0,
       "precio_actual": 31,
       "diferencia": -6.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 9,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Dedicado a Antonio Machado, poeta",
       "artista": "J.M. Serrat",
       "ano": 1969,
@@ -152,13 +152,13 @@
       "precio_compra": 15.0,
       "precio_actual": 9,
       "diferencia": 6.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 10,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Exile on Main Street",
       "artista": "The Rolling Stones",
       "ano": 1972,
@@ -169,13 +169,13 @@
       "precio_compra": 28.97,
       "precio_actual": 45.99,
       "diferencia": -17.020000000000003,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 11,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Let It Be ",
       "artista": "The Beatles",
       "ano": 1970,
@@ -186,13 +186,13 @@
       "precio_compra": 21.99,
       "precio_actual": "34,99",
       "diferencia": -13.000000000000004,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 12,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Time Out",
       "artista": "Brubeck Quartet",
       "ano": 1959,
@@ -203,13 +203,13 @@
       "precio_compra": 11.99,
       "precio_actual": "14,50",
       "diferencia": -2.51,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 13,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Innuendo",
       "artista": "Queen",
       "ano": 1991,
@@ -220,13 +220,13 @@
       "precio_compra": 30.0,
       "precio_actual": 40,
       "diferencia": -10.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 14,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Enseñanzas de la Historia ",
       "artista": "Carlos Puebla y los Tradicionales",
       "ano": 1977,
@@ -237,13 +237,13 @@
       "precio_compra": 10.0,
       "precio_actual": 10,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 15,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Best Of Muddy Waters",
       "artista": "Muddy Waters",
       "ano": 1958,
@@ -254,13 +254,13 @@
       "precio_compra": 14.0,
       "precio_actual": "18,98",
       "diferencia": -4.98,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 16,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Y en Eso Llegó Fidel ",
       "artista": "Carlos Puebla y los Tradicionales",
       "ano": 1976,
@@ -271,13 +271,13 @@
       "precio_compra": 20.0,
       "precio_actual": 12,
       "diferencia": 8.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 17,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Songs From A Room ",
       "artista": "Leonard Cohen",
       "ano": 1969,
@@ -288,13 +288,13 @@
       "precio_compra": 9.99,
       "precio_actual": "27,37",
       "diferencia": -17.380000000000003,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 18,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Con Cariño y con Cuidado",
       "artista": "Valeria Castro",
       "ano": 2023,
@@ -305,13 +305,13 @@
       "precio_compra": 25.0,
       "precio_actual": 28.5,
       "diferencia": -3.5,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Firmado por Valeria a la salida del concierto en en el Teatro del Liceo de Salamanca"
     },
     {
       "numero": 19,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Unplugged",
       "artista": "Eric Clapton",
       "ano": 1992,
@@ -322,13 +322,13 @@
       "precio_compra": 35.18,
       "precio_actual": "41,71",
       "diferencia": -6.530000000000001,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 20,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Mediterráneo",
       "artista": "J.M. Serrat",
       "ano": 1971,
@@ -339,13 +339,13 @@
       "precio_compra": 20.0,
       "precio_actual": 14,
       "diferencia": 6.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 21,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Vinicius de Moraes en La Fusa",
       "artista": "Vinicius de Moraes, María Creuza y Toquinho",
       "ano": 1974,
@@ -356,13 +356,13 @@
       "precio_compra": 7.0,
       "precio_actual": 10,
       "diferencia": -3.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Daño en la portada"
     },
     {
       "numero": 22,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Tiempo de Cerezas",
       "artista": "Víctor Manuel",
       "ano": 1989,
@@ -373,13 +373,13 @@
       "precio_compra": 7.0,
       "precio_actual": 6,
       "diferencia": 1.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo a Elizabeth por el día de la madre"
     },
     {
       "numero": 23,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Different Class",
       "artista": "Pulp",
       "ano": 1995,
@@ -390,13 +390,13 @@
       "precio_compra": 28.0,
       "precio_actual": "26,99",
       "diferencia": 1.0100000000000016,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 24,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Santana Grandes Éxitos",
       "artista": "Santana",
       "ano": 1974,
@@ -407,13 +407,13 @@
       "precio_compra": 20.0,
       "precio_actual": 14,
       "diferencia": 6.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 25,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Rubber Soul",
       "artista": "The Beatles",
       "ano": 1965,
@@ -424,13 +424,13 @@
       "precio_compra": 26.44,
       "precio_actual": 31.99,
       "diferencia": -5.549999999999997,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 26,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Bringing It All Back Home ",
       "artista": "Bob Dylan",
       "ano": 1964,
@@ -441,13 +441,13 @@
       "precio_compra": 15.69,
       "precio_actual": 27.4,
       "diferencia": -11.709999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 27,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Cheap Thrills",
       "artista": "Big Brother & The Holding Company (Janis Joplin) ",
       "ano": 1968,
@@ -458,13 +458,13 @@
       "precio_compra": 15.69,
       "precio_actual": 30.54,
       "diferencia": -14.85,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 28,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Buena Vista Social Club ",
       "artista": "Buena Vista Social Club",
       "ano": 1997,
@@ -475,13 +475,13 @@
       "precio_compra": 24.78,
       "precio_actual": 34.99,
       "diferencia": -10.21,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 29,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Tapestry",
       "artista": "Carole King",
       "ano": 1971,
@@ -492,13 +492,13 @@
       "precio_compra": 14.24,
       "precio_actual": 23.88,
       "diferencia": -9.639999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 30,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Highway 61 Revisted",
       "artista": "Bob Dylan",
       "ano": 1965,
@@ -509,13 +509,13 @@
       "precio_compra": 14.24,
       "precio_actual": 21.99,
       "diferencia": -7.749999999999998,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 31,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Born in the USA",
       "artista": "Bruce Springsteen",
       "ano": 1984,
@@ -526,13 +526,13 @@
       "precio_compra": 13.49,
       "precio_actual": 21.99,
       "diferencia": -8.499999999999998,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 32,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Abbey Road",
       "artista": "The Beatles",
       "ano": 1969,
@@ -543,13 +543,13 @@
       "precio_compra": 28.89,
       "precio_actual": 31.99,
       "diferencia": -3.099999999999998,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 33,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Lo Mejor de los Cream ",
       "artista": "Cream",
       "ano": 1969,
@@ -560,13 +560,13 @@
       "precio_compra": 12.0,
       "precio_actual": 12,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 34,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Automatic For The People",
       "artista": "REM",
       "ano": 1992,
@@ -577,13 +577,13 @@
       "precio_compra": 20.99,
       "precio_actual": 31.8,
       "diferencia": -10.810000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 35,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Unknown Pleasures",
       "artista": "Joy Division",
       "ano": 1979,
@@ -594,13 +594,13 @@
       "precio_compra": 18.0,
       "precio_actual": 20.99,
       "diferencia": -2.9899999999999984,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 36,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Moanin´ in the Moonlight",
       "artista": "Howlin Wolf",
       "ano": 1959,
@@ -611,13 +611,13 @@
       "precio_compra": 11.5,
       "precio_actual": 14.99,
       "diferencia": -3.49,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 37,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Doors",
       "artista": "The Doors",
       "ano": 1967,
@@ -628,13 +628,13 @@
       "precio_compra": 16.0,
       "precio_actual": 18.99,
       "diferencia": -2.9899999999999984,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 38,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Legend ",
       "artista": "Bob Marley",
       "ano": 1984,
@@ -645,13 +645,13 @@
       "precio_compra": 20.0,
       "precio_actual": 31.99,
       "diferencia": -11.989999999999998,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 39,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Slowhand",
       "artista": "Eric Clapton",
       "ano": 1977,
@@ -662,13 +662,13 @@
       "precio_compra": 22.99,
       "precio_actual": 37.66,
       "diferencia": -14.669999999999998,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 40,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Sgt. Pepper's Lonely Hearts Club Band",
       "artista": "The Beatles",
       "ano": 1967,
@@ -679,13 +679,13 @@
       "precio_compra": 30.73,
       "precio_actual": 36.99,
       "diferencia": -6.260000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 41,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Françoise Hardy ",
       "artista": "Françoise Hardy ",
       "ano": 2024,
@@ -696,13 +696,13 @@
       "precio_compra": 18.0,
       "precio_actual": 28.84,
       "diferencia": -10.84,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 42,
-      "portada": NaN,
+      "portada": null,
       "titulo": "I´m Your Man ",
       "artista": "Leonard Cohen",
       "ano": 1988,
@@ -713,13 +713,13 @@
       "precio_compra": 16.0,
       "precio_actual": 29.65,
       "diferencia": -13.649999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 43,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Transa",
       "artista": "Caetano Veloso",
       "ano": 1972,
@@ -730,13 +730,13 @@
       "precio_compra": 28.0,
       "precio_actual": 28.98,
       "diferencia": -0.9800000000000004,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo de Reyes de Elizabeth"
     },
     {
       "numero": 44,
-      "portada": NaN,
+      "portada": null,
       "titulo": "What´s The Story Morning Glory",
       "artista": "Oasis",
       "ano": 1995,
@@ -747,13 +747,13 @@
       "precio_compra": 28.79,
       "precio_actual": 47.27,
       "diferencia": -18.480000000000004,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Tía Angu"
     },
     {
       "numero": 45,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Celia & Johnny",
       "artista": "Celia Cruz & Johnny Pacheco",
       "ano": 1974,
@@ -764,13 +764,13 @@
       "precio_compra": 29.69,
       "precio_actual": 38.75,
       "diferencia": -9.059999999999999,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Padrino y Madrina"
     },
     {
       "numero": 46,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Get Yer Ya-Yas Out",
       "artista": "The Rolling Stones ",
       "ano": 1970,
@@ -781,13 +781,13 @@
       "precio_compra": 20.79,
       "precio_actual": 25.99,
       "diferencia": -5.199999999999999,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Tia Vicky"
     },
     {
       "numero": 47,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Birth of the Cool",
       "artista": "Miles Davis",
       "ano": 1957,
@@ -798,13 +798,13 @@
       "precio_compra": 14.99,
       "precio_actual": 16.99,
       "diferencia": -1.9999999999999982,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Tía Vicky"
     },
     {
       "numero": 48,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Kind of Blue",
       "artista": "Miles Davis",
       "ano": 1959,
@@ -815,13 +815,13 @@
       "precio_compra": 20.99,
       "precio_actual": 21.95,
       "diferencia": -0.9600000000000009,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Abuela Luisa "
     },
     {
       "numero": 49,
-      "portada": NaN,
+      "portada": null,
       "titulo": "A Hard Day´s Night ",
       "artista": "The Beatles",
       "ano": 1964,
@@ -832,13 +832,13 @@
       "precio_compra": 21.0,
       "precio_actual": 33.99,
       "diferencia": -12.990000000000002,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Tía Vicky"
     },
     {
       "numero": 50,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Help",
       "artista": "The Beatles",
       "ano": 1965,
@@ -849,13 +849,13 @@
       "precio_compra": 21.0,
       "precio_actual": 33.99,
       "diferencia": -12.990000000000002,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Tío Juan Carlos"
     },
     {
       "numero": 51,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Horses",
       "artista": "Patti Smith",
       "ano": 1975,
@@ -866,13 +866,13 @@
       "precio_compra": 16.0,
       "precio_actual": 21.72,
       "diferencia": -5.719999999999999,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Bizum Regreso Navidad Tía Mila"
     },
     {
       "numero": 52,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Queen Great Hits I",
       "artista": "Queen",
       "ano": 1981,
@@ -883,13 +883,13 @@
       "precio_compra": 29.0,
       "precio_actual": 45.99,
       "diferencia": -16.990000000000002,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Bizum Regreso Navidad Tía Mila"
     },
     {
       "numero": 53,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Cold Fact ",
       "artista": "Sixto Rodríguez",
       "ano": 1970,
@@ -900,13 +900,13 @@
       "precio_compra": 16.5,
       "precio_actual": 22.99,
       "diferencia": -6.489999999999998,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Tío Juan Carlos"
     },
     {
       "numero": 54,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Morrison Hotel ",
       "artista": "The Doors",
       "ano": 1970,
@@ -917,13 +917,13 @@
       "precio_compra": 21.5,
       "precio_actual": 32.99,
       "diferencia": -11.490000000000002,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Bizum Regreso Navidad Tía Mila"
     },
     {
       "numero": 55,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Dire Straits ",
       "artista": " Dire Straits",
       "ano": 1978,
@@ -934,13 +934,13 @@
       "precio_compra": 22.5,
       "precio_actual": 33.99,
       "diferencia": -11.490000000000002,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Reyes Padrino y Madrina"
     },
     {
       "numero": 56,
-      "portada": NaN,
+      "portada": null,
       "titulo": "MTV Unplugged: Nirvana",
       "artista": "Nirvana",
       "ano": 1994,
@@ -951,13 +951,13 @@
       "precio_compra": 21.55,
       "precio_actual": 31.97,
       "diferencia": -10.419999999999998,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Bizu Tia Mila?"
     },
     {
       "numero": 57,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Diamond Dogs",
       "artista": "David Bowie",
       "ano": 1974,
@@ -968,13 +968,13 @@
       "precio_compra": 19.19,
       "precio_actual": 29.99,
       "diferencia": -10.799999999999997,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Cumple Tia Angu?"
     },
     {
       "numero": 58,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Rum, Sodomy And The Lash",
       "artista": "The Pogues",
       "ano": 1985,
@@ -985,13 +985,13 @@
       "precio_compra": 17.59,
       "precio_actual": 35.49,
       "diferencia": -17.900000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 59,
-      "portada": NaN,
+      "portada": null,
       "titulo": "La Fusa (Con Maria Bethania y Toquinho)",
       "artista": "La Fusa (Vinicius de Moraes, Maria Bethania y Toquinho)",
       "ano": 1971,
@@ -1002,13 +1002,13 @@
       "precio_compra": 15.6,
       "precio_actual": 23.77,
       "diferencia": -8.17,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 60,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Back to Black",
       "artista": "Amy Winehouse",
       "ano": 2006,
@@ -1019,13 +1019,13 @@
       "precio_compra": 25.99,
       "precio_actual": 33.99,
       "diferencia": -8.000000000000004,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 61,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Blonde on Blonde",
       "artista": "Bob Dylan",
       "ano": 1966,
@@ -1036,13 +1036,13 @@
       "precio_compra": 18.39,
       "precio_actual": 23.99,
       "diferencia": -5.599999999999998,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Cumple Tia Angu?"
     },
     {
       "numero": 62,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Led Zeppelin II",
       "artista": "Led Zeppelin",
       "ano": 1969,
@@ -1053,13 +1053,13 @@
       "precio_compra": 16.79,
       "precio_actual": 20.99,
       "diferencia": -4.199999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 63,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Moondance",
       "artista": "Van Morrison",
       "ano": 1970,
@@ -1070,13 +1070,13 @@
       "precio_compra": 23.99,
       "precio_actual": 29.99,
       "diferencia": -6.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Cumple Tía Angu"
     },
     {
       "numero": 64,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Queen is Dead",
       "artista": "The Smiths",
       "ano": 1986,
@@ -1087,13 +1087,13 @@
       "precio_compra": 19.99,
       "precio_actual": 22.99,
       "diferencia": -3.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 65,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Led Zeppelin IV",
       "artista": "Led Zeppelin",
       "ano": 1971,
@@ -1104,13 +1104,13 @@
       "precio_compra": 16.79,
       "precio_actual": 20.99,
       "diferencia": -4.199999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 66,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Out of Time",
       "artista": "REM",
       "ano": 1991,
@@ -1121,13 +1121,13 @@
       "precio_compra": 19.99,
       "precio_actual": 29.8,
       "diferencia": -9.810000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 67,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Definitly Maybe",
       "artista": "Oasis",
       "ano": 1994,
@@ -1138,13 +1138,13 @@
       "precio_compra": 28.8,
       "precio_actual": 43.7,
       "diferencia": -14.900000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 68,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Transformer",
       "artista": "Lou Reed",
       "ano": 1972,
@@ -1155,13 +1155,13 @@
       "precio_compra": 17.59,
       "precio_actual": 21.99,
       "diferencia": -4.399999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 69,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Parklife",
       "artista": "Blur",
       "ano": 1994,
@@ -1172,13 +1172,13 @@
       "precio_compra": 29.6,
       "precio_actual": 47.58,
       "diferencia": -17.979999999999997,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 70,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Born To Run",
       "artista": "Bruce Springsteen",
       "ano": 1975,
@@ -1189,13 +1189,13 @@
       "precio_compra": 17.59,
       "precio_actual": 23.99,
       "diferencia": -6.399999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 71,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Screamadelica",
       "artista": "Primal Scream",
       "ano": 1991,
@@ -1206,13 +1206,13 @@
       "precio_compra": 33.98,
       "precio_actual": 36.82,
       "diferencia": -2.8400000000000034,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 72,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Love Over Gold",
       "artista": "Dire Straits",
       "ano": 1982,
@@ -1223,13 +1223,13 @@
       "precio_compra": 17.53,
       "precio_actual": 17,
       "diferencia": 0.5300000000000011,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 73,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Backless",
       "artista": "Eric Clapton",
       "ano": 1978,
@@ -1240,13 +1240,13 @@
       "precio_compra": 10.4,
       "precio_actual": 20,
       "diferencia": -9.6,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo Kai"
     },
     {
       "numero": 74,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Getz/Gilberto",
       "artista": "Stan Getz & Joao Gilberto",
       "ano": 1964,
@@ -1257,13 +1257,13 @@
       "precio_compra": 15.1,
       "precio_actual": 33.99,
       "diferencia": -18.89,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 75,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Disraeli Gears",
       "artista": "Cream",
       "ano": 1967,
@@ -1274,13 +1274,13 @@
       "precio_compra": 15.4,
       "precio_actual": 37.9,
       "diferencia": -22.5,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Oferta Foop 3 x 66 + 30 % de Laury por empleada"
     },
     {
       "numero": 76,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Talking Heads 77",
       "artista": "Talkind Heads",
       "ano": 1977,
@@ -1291,13 +1291,13 @@
       "precio_compra": 15.4,
       "precio_actual": 31.2,
       "diferencia": -15.799999999999999,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Oferta Foop 3 x 66 + 30 % de Laury por empleada"
     },
     {
       "numero": 77,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Be Here Now",
       "artista": "Oasis",
       "ano": 1997,
@@ -1308,13 +1308,13 @@
       "precio_compra": 15.4,
       "precio_actual": 39.29,
       "diferencia": -23.89,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Oferta Foop 3 x 66 + 30 % de Laury por empleada"
     },
     {
       "numero": 78,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Let´s Dance",
       "artista": "David Bowie",
       "ano": 1983,
@@ -1325,13 +1325,13 @@
       "precio_compra": 17.5,
       "precio_actual": 34.95,
       "diferencia": -17.450000000000003,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Oferta Foop 2 X 50 + 30 % de Laury por empleada"
     },
     {
       "numero": 79,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Velvet Underground And Nico (Banana Album)",
       "artista": "The Velvet Underground & Nico ",
       "ano": 1967,
@@ -1342,13 +1342,13 @@
       "precio_compra": 17.5,
       "precio_actual": 25.99,
       "diferencia": -8.489999999999998,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Oferta Foop 2 X 50 + 30 % de Laury por empleada"
     },
     {
       "numero": 80,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Hot Rocks 1964 - 1971",
       "artista": "The Rolling Stones",
       "ano": 1971,
@@ -1359,13 +1359,13 @@
       "precio_compra": 28.99,
       "precio_actual": 45.85,
       "diferencia": -16.860000000000003,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 81,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Wish You Were Here",
       "artista": "Pink Floyd",
       "ano": 1975,
@@ -1376,13 +1376,13 @@
       "precio_compra": 27.19,
       "precio_actual": 33.99,
       "diferencia": -6.800000000000001,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 82,
-      "portada": NaN,
+      "portada": null,
       "titulo": "La Mandrágora",
       "artista": "Javier Krahe, Joaquín Sabina y Alberto Pérez",
       "ano": 1981,
@@ -1393,13 +1393,13 @@
       "precio_compra": 16.14,
       "precio_actual": 36,
       "diferencia": -19.86,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 83,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Leonard Cohen: Live in London ",
       "artista": "Leonard Cohen ",
       "ano": 2009,
@@ -1410,13 +1410,13 @@
       "precio_compra": 27.31,
       "precio_actual": 32.13,
       "diferencia": -4.820000000000004,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo Tia angu o Abuela Luisa"
     },
     {
       "numero": 84,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The River",
       "artista": "Bruce Springsteen",
       "ano": 1980,
@@ -1427,13 +1427,13 @@
       "precio_compra": 25.29,
       "precio_actual": 31.99,
       "diferencia": -6.699999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 85,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Breakfast in America",
       "artista": "Supertramp",
       "ano": 1979,
@@ -1444,13 +1444,13 @@
       "precio_compra": 19.66,
       "precio_actual": 27.45,
       "diferencia": -7.789999999999999,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "19,99 en Francia Enero 26"
     },
     {
       "numero": 86,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Brother in Arms",
       "artista": "Dire Straits",
       "ano": 1985,
@@ -1461,13 +1461,13 @@
       "precio_compra": 22.94,
       "precio_actual": 28.99,
       "diferencia": -6.049999999999997,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "26,99 en Francia Enero 26"
     },
     {
       "numero": 87,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Greatest Hits II",
       "artista": "Queen",
       "ano": 1991,
@@ -1478,13 +1478,13 @@
       "precio_compra": 25.49,
       "precio_actual": 34.99,
       "diferencia": -9.500000000000004,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "29,99 en Francia Enero 26"
     },
     {
       "numero": 88,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Freewheelin' Bob Dylan",
       "artista": "Bob Dylan",
       "ano": 1963,
@@ -1495,13 +1495,13 @@
       "precio_compra": 15.52,
       "precio_actual": 21.99,
       "diferencia": -6.469999999999999,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "31,41 en Francia Enero 26"
     },
     {
       "numero": 89,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Best of The Specials",
       "artista": "The Specials",
       "ano": 2008,
@@ -1512,13 +1512,13 @@
       "precio_compra": 19.98,
       "precio_actual": 43.55,
       "diferencia": -23.569999999999997,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "38,01 en Francia Enero 26"
     },
     {
       "numero": 90,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Beggars Banquet ",
       "artista": "The Rolling Stones",
       "ano": 1969,
@@ -1529,13 +1529,13 @@
       "precio_compra": 23.79,
       "precio_actual": 33.99,
       "diferencia": -10.200000000000003,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "19,99 en Francia Enero 26"
     },
     {
       "numero": 91,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Urban Hymns",
       "artista": "The Verve",
       "ano": 1997,
@@ -1546,13 +1546,13 @@
       "precio_compra": 27.3,
       "precio_actual": 45.85,
       "diferencia": -18.55,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "37,59 en Francia Enero 26"
     },
     {
       "numero": 92,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Songs Of Leonard Cohen ",
       "artista": "Leonard Cohen",
       "ano": 1967,
@@ -1563,13 +1563,13 @@
       "precio_compra": 17.8,
       "precio_actual": 20.99,
       "diferencia": -3.1899999999999977,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 93,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Forever Changes",
       "artista": "Love",
       "ano": 1967,
@@ -1580,13 +1580,13 @@
       "precio_compra": 19.2,
       "precio_actual": 23.99,
       "diferencia": -4.789999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 94,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Remainin Light",
       "artista": "Talking Heads",
       "ano": 1980,
@@ -1597,13 +1597,13 @@
       "precio_compra": 16.8,
       "precio_actual": 25.99,
       "diferencia": -9.189999999999998,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 95,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Construçao ",
       "artista": "Chico Buarque",
       "ano": 1971,
@@ -1614,13 +1614,13 @@
       "precio_compra": 26.0,
       "precio_actual": 45,
       "diferencia": -19.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 96,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Greetings from Asbury Park, N.J. ",
       "artista": "Bruce Springsteen",
       "ano": 1973,
@@ -1631,13 +1631,13 @@
       "precio_compra": 17.5,
       "precio_actual": 19,
       "diferencia": -1.5,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 97,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Os Mutantes",
       "artista": "Os Mutantes",
       "ano": 1968,
@@ -1648,13 +1648,13 @@
       "precio_compra": 25.0,
       "precio_actual": 35.13,
       "diferencia": -10.130000000000003,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 98,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Flashpoint",
       "artista": "The Rolling Stones",
       "ano": 1991,
@@ -1665,13 +1665,13 @@
       "precio_compra": 20.0,
       "precio_actual": 22,
       "diferencia": -2.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 99,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Robert Johnson King of the Delta Blues Singer",
       "artista": "Robert Johnson ",
       "ano": "1961 (1936-1937)",
@@ -1682,13 +1682,13 @@
       "precio_compra": 23.5,
       "precio_actual": 14.99,
       "diferencia": 8.51,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo Reyes Tía Angu"
     },
     {
       "numero": 100,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Who is Next / San Francisco 1971",
       "artista": "The Who",
       "ano": 1971,
@@ -1699,13 +1699,13 @@
       "precio_compra": 31.99,
       "precio_actual": 66.21,
       "diferencia": -34.22,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 101,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Canciones de la Resistencia Española ",
       "artista": "Chicho Sánchez Ferlosio",
       "ano": 1963,
@@ -1716,13 +1716,13 @@
       "precio_compra": 28.0,
       "precio_actual": 28,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo Reyes Tía Angu"
     },
     {
       "numero": 102,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Canciones de la Guerra Civil Española ",
       "artista": "Chicho Sánchez Ferlosio",
       "ano": 1963,
@@ -1733,13 +1733,13 @@
       "precio_compra": 0.0,
       "precio_actual": 7.5,
       "diferencia": -7.5,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo Reyes Tía Angu / De regalo con el anterior"
     },
     {
       "numero": 103,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Bob Dylan (Debut Album)",
       "artista": "Bob Dylan",
       "ano": 1962,
@@ -1750,13 +1750,13 @@
       "precio_compra": 16.99,
       "precio_actual": 25.39,
       "diferencia": -8.400000000000002,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Loteria Tío Pepe"
     },
     {
       "numero": 104,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Corrina Corrina - Mixed up Confusion",
       "artista": "Bob Dylan",
       "ano": 1962,
@@ -1767,13 +1767,13 @@
       "precio_compra": 0.0,
       "precio_actual": 15,
       "diferencia": -15.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo con el anterior"
     },
     {
       "numero": 105,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Pretzel Logic",
       "artista": "Steely Dan",
       "ano": 1974,
@@ -1784,13 +1784,13 @@
       "precio_compra": 15.0,
       "precio_actual": 21,
       "diferencia": -6.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 106,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Déjà Vu",
       "artista": "Crosby , Stills, Nash & Young",
       "ano": 1970,
@@ -1801,13 +1801,13 @@
       "precio_compra": 22.0,
       "precio_actual": 22,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 107,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Lo Mejor de Joan Baez",
       "artista": "Joan Baez",
       "ano": 1976,
@@ -1818,13 +1818,13 @@
       "precio_compra": 8.0,
       "precio_actual": 10,
       "diferencia": -2.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 108,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Al final de este viaje ",
       "artista": "Silvio Rodríguez",
       "ano": 1978,
@@ -1835,13 +1835,13 @@
       "precio_compra": 30.0,
       "precio_actual": 80,
       "diferencia": -50.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 109,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Lo Mejor de Benny Goodman",
       "artista": "Benny Goodman",
       "ano": 1979,
@@ -1852,13 +1852,13 @@
       "precio_compra": 0.0,
       "precio_actual": 5,
       "diferencia": -5.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalado por el señor de la feria al comprar los demás"
     },
     {
       "numero": 110,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Giant Steps",
       "artista": "John Coltrane",
       "ano": 1960,
@@ -1869,13 +1869,13 @@
       "precio_compra": 16.95,
       "precio_actual": 26.54,
       "diferencia": -9.59,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 111,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Live Cream ",
       "artista": "Cream",
       "ano": 1970,
@@ -1886,13 +1886,13 @@
       "precio_compra": 21.59,
       "precio_actual": 34.09,
       "diferencia": -12.500000000000004,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 112,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Lust for Life",
       "artista": "Iggy Pop",
       "ano": 1977,
@@ -1903,13 +1903,13 @@
       "precio_compra": 21.93,
       "precio_actual": 30.9,
       "diferencia": -8.969999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 113,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Band on the Run",
       "artista": "Paul McCartney & The Wings",
       "ano": 1973,
@@ -1920,13 +1920,13 @@
       "precio_compra": 25.38,
       "precio_actual": 36,
       "diferencia": -10.620000000000001,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 114,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Meat is Murder",
       "artista": "The Smiths",
       "ano": 1985,
@@ -1937,13 +1937,13 @@
       "precio_compra": 19.19,
       "precio_actual": 23.99,
       "diferencia": -4.799999999999997,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 115,
-      "portada": NaN,
+      "portada": null,
       "titulo": "White Album ",
       "artista": "The Beatles",
       "ano": 1968,
@@ -1954,13 +1954,13 @@
       "precio_compra": 42.38,
       "precio_actual": 54.41,
       "diferencia": -12.029999999999994,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 116,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Before the Flood",
       "artista": "Bob Dylan & The Band",
       "ano": null,
@@ -1971,13 +1971,13 @@
       "precio_compra": 24.71,
       "precio_actual": 28.96,
       "diferencia": -4.25,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "De lo de tía Mila en Semana Santa"
     },
     {
       "numero": 117,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Palmera",
       "artista": "Palmera",
       "ano": 1982,
@@ -1988,13 +1988,13 @@
       "precio_compra": 10.0,
       "precio_actual": 10,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 118,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Songs of Love and Hate",
       "artista": "Leonard Cohen",
       "ano": 1971,
@@ -2005,13 +2005,13 @@
       "precio_compra": 10.0,
       "precio_actual": 10,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 119,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Tea for the Tillerman",
       "artista": "Cat Stevens",
       "ano": 1970,
@@ -2022,47 +2022,47 @@
       "precio_compra": 20.0,
       "precio_actual": 18,
       "diferencia": 2.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 120,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Last Waltz",
       "artista": "The Band",
       "ano": 1978,
       "genero": "Rock Internacional",
-      "tipo_edicion": NaN,
+      "tipo_edicion": null,
       "fecha": "2026-04-26",
       "lugar_compra": "Feria del Disco Salamanca",
       "precio_compra": 30.0,
       "precio_actual": 35,
       "diferencia": -5.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 121,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Goodbye",
       "artista": "Cream",
       "ano": 1969,
       "genero": "Rock Internacional",
-      "tipo_edicion": NaN,
+      "tipo_edicion": null,
       "fecha": "2026-05-08",
       "lugar_compra": "La Metralleta",
       "precio_compra": 15.0,
       "precio_actual": 15,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 122,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Running on Empty",
       "artista": "Jackson Browne",
       "ano": 1977,
@@ -2073,13 +2073,13 @@
       "precio_compra": 9.0,
       "precio_actual": 10,
       "diferencia": -1.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 123,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Mud Slide Slim ",
       "artista": "James Taylor",
       "ano": 1971,
@@ -2090,13 +2090,13 @@
       "precio_compra": 9.0,
       "precio_actual": 9,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 124,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Hot August Night: Recorded in Concert At The Greek Theater. Los Ángeles",
       "artista": "Neil Diamond",
       "ano": 1972,
@@ -2107,13 +2107,13 @@
       "precio_compra": 15.0,
       "precio_actual": 16,
       "diferencia": -1.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 125,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Living Road",
       "artista": "Lhasa de Sela",
       "ano": 2003,
@@ -2124,13 +2124,13 @@
       "precio_compra": 31.99,
       "precio_actual": 40,
       "diferencia": -8.010000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 126,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Hit The Road (Compilation)",
       "artista": "Ray Charles",
       "ano": "2016*",
@@ -2141,13 +2141,13 @@
       "precio_compra": 10.0,
       "precio_actual": 19.606,
       "diferencia": -9.606000000000002,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 127,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Band",
       "artista": "The Band",
       "ano": 1969,
@@ -2158,13 +2158,13 @@
       "precio_compra": 26.99,
       "precio_actual": 33.99,
       "diferencia": -7.0000000000000036,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 128,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Songs in the Key of Life",
       "artista": "Stevie Wonder",
       "ano": 1976,
@@ -2175,13 +2175,13 @@
       "precio_compra": 38.92,
       "precio_actual": 45.79,
       "diferencia": -6.869999999999997,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 129,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Sticky Fingers",
       "artista": "The Rolling Stones",
       "ano": 1971,
@@ -2192,13 +2192,13 @@
       "precio_compra": 27.19,
       "precio_actual": 31.99,
       "diferencia": -4.799999999999997,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 130,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Blow by Blow",
       "artista": "Jeff Beck",
       "ano": 1975,
@@ -2209,13 +2209,13 @@
       "precio_compra": 16.79,
       "precio_actual": 20.99,
       "diferencia": -4.199999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 131,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Hatful of Hollow",
       "artista": "The Smiths",
       "ano": 1984,
@@ -2226,13 +2226,13 @@
       "precio_compra": 16.79,
       "precio_actual": 20.99,
       "diferencia": -4.199999999999999,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 132,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Hits ",
       "artista": "Etta James",
       "ano": "2021*",
@@ -2243,13 +2243,13 @@
       "precio_compra": 12.0,
       "precio_actual": 13,
       "diferencia": -1.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 133,
-      "portada": NaN,
+      "portada": null,
       "titulo": "The Wall",
       "artista": "Pink Floyd",
       "ano": 1979,
@@ -2260,13 +2260,13 @@
       "precio_compra": 35.19,
       "precio_actual": 48.99,
       "diferencia": -13.800000000000004,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 134,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Speaking in Tongues",
       "artista": "Talking Heads",
       "ano": 1983,
@@ -2277,13 +2277,13 @@
       "precio_compra": 26.99,
       "precio_actual": 21.99,
       "diferencia": 5.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 135,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Woodstock",
       "artista": "Varios Artistas",
       "ano": 1970,
@@ -2294,13 +2294,13 @@
       "precio_compra": 30.0,
       "precio_actual": 37,
       "diferencia": -7.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 136,
-      "portada": NaN,
+      "portada": null,
       "titulo": "A Hard Road",
       "artista": "John Mayall",
       "ano": 1967,
@@ -2311,13 +2311,13 @@
       "precio_compra": 18.0,
       "precio_actual": 18,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 137,
-      "portada": NaN,
+      "portada": null,
       "titulo": "La Voce del Padrone ",
       "artista": "Franco Battiato",
       "ano": 1981,
@@ -2328,13 +2328,13 @@
       "precio_compra": 36.0,
       "precio_actual": 50,
       "diferencia": -14.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 138,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Gloria",
       "artista": "Them Ft. Van Morrison",
       "ano": "1989*",
@@ -2345,13 +2345,13 @@
       "precio_compra": 0.0,
       "precio_actual": 12,
       "diferencia": -12.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo de Daniel Millet"
     },
     {
       "numero": 139,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Blues Breakers John Mayall With Eric Clapton",
       "artista": "John Mayall With Eric Clapton",
       "ano": 1966,
@@ -2362,13 +2362,13 @@
       "precio_compra": 0.0,
       "precio_actual": 14,
       "diferencia": -14.0,
-      "total": NaN,
-      "nota": NaN,
+      "total": null,
+      "nota": null,
       "observaciones": "Regalo de Daniel Millet"
     },
     {
       "numero": 140,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Omega",
       "artista": "Morente y Lagartija Nick",
       "ano": 1996,
@@ -2379,13 +2379,13 @@
       "precio_compra": 38.0,
       "precio_actual": 60,
       "diferencia": -22.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     },
     {
       "numero": 141,
-      "portada": NaN,
+      "portada": null,
       "titulo": "Jazz Flamenco",
       "artista": "Pedro Iturralde y Paco de Lucía",
       "ano": 1967,
@@ -2396,9 +2396,9 @@
       "precio_compra": 25.0,
       "precio_actual": 25,
       "diferencia": 0.0,
-      "total": NaN,
-      "nota": NaN,
-      "observaciones": NaN
+      "total": null,
+      "nota": null,
+      "observaciones": null
     }
   ]
 }
