@@ -384,6 +384,14 @@ async function initDisco() {
     document.getElementById('disco-titulo').textContent = vinyl.titulo || 'Sin título';
     document.getElementById('disco-artista').textContent = vinyl.artista || 'Artista desconocido';
     
+    // Spotify Link
+    const spotifyBtn = document.getElementById('disco-spotify');
+    if (spotifyBtn && vinyl.titulo && vinyl.artista) {
+        const query = encodeURIComponent(vinyl.titulo + ' ' + vinyl.artista);
+        spotifyBtn.href = 'https://open.spotify.com/search/' + query + '/albums';
+        spotifyBtn.style.display = 'inline-flex';
+    }
+    
     // Portada
     let imageSrc = getManualImage(vinyl.numero);
     if (!imageSrc) {
