@@ -152,6 +152,7 @@ const manualImageMap = {
     127: 'TheBand_TheBand.jpg',           // The Band - The Band
     128: 'SongsInTheKeyofLife_StevieWonder.jpg', // Songs in the Key of Life - Stevie Wonder
     129: 'StickyFingers_RollingStones.jpg', // Sticky Fingers - The Rolling Stones
+    147: 'DavidLive_DavidBowie.jpg', // David Live - David Bowie
 };
 
 function getManualImage(numero) {
